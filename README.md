@@ -11,8 +11,6 @@ I am a software engineer specializing in building products using MERN Stack. Pre
 * ✉️  You can contact me at [fahimkhangorbo@yahoo.com](mailto:fahimkhangorbo@yahoo.com)
 * 🧠  I'm learning Android Development (Kotlin and Java)
 
-### Skills
-
 <p align="center">
     <a style="margin: 10px;" href="https://git-scm.com/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
@@ -80,7 +78,7 @@ I am a software engineer specializing in building products using MERN Stack. Pre
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg"
             width="36" height="36" alt="XD" /></a>
 </p>
-
+</br></br></br>
 
 <p align="center">
     <img
