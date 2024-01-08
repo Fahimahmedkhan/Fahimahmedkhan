@@ -22,6 +22,13 @@ I am a software engineer specializing in building products using MERN Stack. Pre
         </a>
 </div>
 
+<img align="right" alt="Coding" width="400"
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ByeGN4MG1tZWluejZhbnhuNmIwb3Z0NnZkNTRtYmZ1aDUxYjVtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+
+<p align="left"> <img
+        src="https://komarev.com/ghpvc/?username=Fahimahmedkhan&label=Profile%20views&color=0e75b6&style=flat"
+        alt="Fahimahmedkhan" /> </p>
+
 
 ### Skills
 
