@@ -1,13 +1,11 @@
  Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fahim Ahmed Khan Gorbo
 ==============================================================================================================================================
-<div align="center">
 I am a software engineer specializing in building products using MERN Stack. Prefer to work as Front-End Web Developer (React)
 
 * 🌍  I'm based in Rajshahi, Bangladesh
 * 🖥️  See my portfolio at [MyPorfolio](http://fahim-ahmed-khan-gorbo.netlify.app/)
 * ✉️  You can contact me at [fahimkhangorbo@yahoo.com](mailto:fahimkhangorbo@yahoo.com)
 * 🧠  I'm learning Android Development (Kotlin and Java)
-</div>
 
 </br></br></br>
 <p align="center">
