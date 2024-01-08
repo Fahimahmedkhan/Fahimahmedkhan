@@ -141,8 +141,8 @@ I am a software engineer specializing in building products using MERN Stack. Pre
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="undefined" />
             <source media="(prefers-color-scheme: light)"
-                srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"
+                srcset="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
                 width="32" height="32" />
         </picture>
     </a>
