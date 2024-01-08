@@ -18,7 +18,7 @@ I am a software engineer specializing in building products using MERN Stack. Pre
         </a>
      <a href="https://www.x.com/Fahim_Gorbo" target="_blank" rel="noreferrer">
             <img
-                src="https://img.shields.io/twitter/follow/Fahim_Gorbo?logo=twitter" />
+                src="https://img.shields.io/twitter/follow/Fahim_Gorbo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
         </a>
 </div>
 
