@@ -18,7 +18,8 @@ I am a software engineer specializing in building products using MERN Stack. Pre
         </a>
      <a href="https://www.github.com/Fahimahmedkhan" target="_blank" rel="noreferrer">
             <img
-        src="https://komarev.com/ghpvc/?username=Fahimahmedkhan&label=Profile%20views&color=0e75b6&style=flat"
+                src="https://img.shields.io/github/followers/Fahimahmedkhan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917&label=Profile%20views"
+                
         alt="Fahimahmedkhan" />
         </a>
 </div>
