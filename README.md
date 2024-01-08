@@ -84,6 +84,6 @@ I am a software engineer specializing in building products using MERN Stack. Pre
 
 <p>
     <img align="left"
-        src="https://github-readme-stats.vercel.app/api?username=Fahimahmedkhan&show_icons=true&theme=radical"
+        src="https://github-readme-stats.vercel.app/api?username=Fahimahmedkhan&show_icons=true&theme=merko"
         alt="Fahimahmedkhan" />
 </p>
