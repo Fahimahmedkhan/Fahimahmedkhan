@@ -82,12 +82,11 @@ I am a software engineer specializing in building products using MERN Stack. Pre
 </p>
 
 
-<p>
+<p align="center">
     <img align="left"
         src="https://github-readme-stats.vercel.app/api?username=Fahimahmedkhan&show_icons=true&theme=radical"
         alt="Fahimahmedkhan" />
     <img align="right"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahimahmedkhan&layout=pie"
         alt="Fahimahmedkhan" />
-    
 </p>
