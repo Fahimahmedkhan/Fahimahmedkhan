@@ -12,15 +12,20 @@ I am a software engineer specializing in building products using MERN Stack. Pre
 * 🧠  I'm learning Android Development (Kotlin and Java)
 
 <div align="center">
-    <a style="margin: 100px;" href="https://www.github.com/Fahimahmedkhan" target="_blank" rel="noreferrer">
-    <img
-        src="https://img.shields.io/github/followers/Fahimahmedkhan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
-<a style="margin: 100px;" href="https://www.x.com/Fahim_Gorbo" target="_blank" rel="noreferrer">
-    <img
-        src="https://img.shields.io/twitter/follow/Fahim_Gorbo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
+    <div style="padding: 10px;">
+        <a href="https://www.github.com/Fahimahmedkhan" target="_blank" rel="noreferrer">
+            <img
+                src="https://img.shields.io/github/followers/Fahimahmedkhan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+        </a>
+    </div>
+    <div style="padding: 10px;">
+        <a href="https://www.x.com/Fahim_Gorbo" target="_blank" rel="noreferrer">
+            <img
+                src="https://img.shields.io/twitter/follow/Fahim_Gorbo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+        </a>
+    </div>
 </div>
+
 
 ### Skills
 
