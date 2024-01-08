@@ -97,7 +97,7 @@ I am a software engineer specializing in building products using MERN Stack. Pre
 
 ### Socials
 
-<p align="left">
+<p align="center">
     <a href="https://www.codepen.io/Fahimahmedkhan" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)"
